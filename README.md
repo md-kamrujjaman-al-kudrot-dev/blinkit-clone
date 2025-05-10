@@ -10,7 +10,6 @@ This is a fully responsive clone of the Blinkit (formerly Grofers) landing page,
 
 - Clean and semantic HTML5 structure
 - Custom CSS styling without any framework
-- Responsive layout using CSS Flexbox and Media Queries
 - Includes sections: Header, bannerSection, oderBanner, categotySection, productSection, and Footer
 
 ## 🛠️ Built With
